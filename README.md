@@ -37,8 +37,11 @@ Below are examples of the model's segmentation performance:
 
 | Original Image | Ground Truth | Predicted Mask |
 |----------------|--------------|----------------|
-| ![Original](images/sample_original.png) | ![GT](images/sample_gt.png) | ![Pred](images/sample_pred.png) |
-| ![Original](images/sample_original2.png) | ![GT](images/sample_gt2.png) | ![Pred](images/sample_pred2.png) |
+| ![Segmentation Result 1](images/segmentation_result_1.png) |
+
+
+| ![Segmentation Result 2](images/segmentation_result_2.png) |
+
 
 > Replace these images with your own outputs. The table will expand as you add more samples.
 
