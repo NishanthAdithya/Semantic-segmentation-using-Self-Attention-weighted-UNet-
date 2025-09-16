@@ -35,13 +35,11 @@ Key Features:
 
 Below are examples of the model's segmentation performance:
 
-| Original Image | Ground Truth | Predicted Mask |
-|----------------|--------------|----------------|
-| ![Segmentation Result 1](images/segmentation_result_1.png) |
+### Example 1
+![Segmentation Result 1](images/segmentation_result_1.png)
 
-
-| ![Segmentation Result 2](images/segmentation_result_2.png) |
-
+### Example 2
+![Segmentation Result 2](images/segmentation_result_2.png)
 
 > Replace these images with your own outputs. The table will expand as you add more samples.
 
