@@ -36,10 +36,13 @@ Key Features:
 Below are examples of the model's segmentation performance:
 
 ### Example 1
-![Segmentation Result 1](images/segmentation_result_1.png)
+![Segmentation Result 1](images/prediction_sample_1.png)
 
 ### Example 2
-![Segmentation Result 2](images/segmentation_result_2.png)
+![Segmentation Result 2](images/prediction_sample_2.png)
+
+### Example 3
+![Segmentation Result 3](images/prediction_sample_3.png)
 
 > Replace these images with your own outputs. The table will expand as you add more samples.
 
@@ -49,7 +52,7 @@ Below are examples of the model's segmentation performance:
 
 The following plot shows the **training and validation loss** over epochs:
 
-![Loss Curves](images/loss_curves.png)
+![Loss Curves](images/loss_curve.png)
 
 - The model shows **stable convergence**.
 - The self-attention module helps in capturing **long-range dependencies**, improving boundary predictions.
