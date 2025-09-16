@@ -31,6 +31,28 @@ Key Features:
 
 ---
 
+## Sample Segmentations
+
+Below are examples of the model's segmentation performance:
+
+| Original Image | Ground Truth | Predicted Mask |
+|----------------|--------------|----------------|
+| ![Original](images/sample_original.png) | ![GT](images/sample_gt.png) | ![Pred](images/sample_pred.png) |
+| ![Original](images/sample_original2.png) | ![GT](images/sample_gt2.png) | ![Pred](images/sample_pred2.png) |
+
+> Replace these images with your own outputs. The table will expand as you add more samples.
+
+---
+
+## Loss Curves
+
+The following plot shows the **training and validation loss** over epochs:
+
+![Loss Curves](images/loss_curves.png)
+
+- The model shows **stable convergence**.
+- The self-attention module helps in capturing **long-range dependencies**, improving boundary predictions.
+
 ## Installation
 
 1. Clone this repository:
