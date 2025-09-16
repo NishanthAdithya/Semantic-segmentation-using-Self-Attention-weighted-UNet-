@@ -36,5 +36,5 @@ Key Features:
 1. Clone this repository:
 
 ```bash
-git clone git clone https://github.com/NishanthAdithya/semantic-segmentation-unet.git
-cd semantic-segmentation-unet
+git clone git clone https://github.com/NishanthAdithya/Semantic-segmentation-using-Self-Attention-weighted-UNet-.git
+cd Semantic-segmentation-using-Self-Attention-weighted-UNet-
